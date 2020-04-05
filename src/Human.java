@@ -7,7 +7,7 @@ public class Human {
 
     public Human(int age, String name) {
         this.age = 33;
-        this.name = name;
+        this.name = "default";
         // test message
     }
 
